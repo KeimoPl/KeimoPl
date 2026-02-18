@@ -9,8 +9,7 @@ I build things **fast, clean, and smart**. I like to **think about what could go
 ## 🌌 About Me
 
 - 🔭 Currently exploring **web development** and practical automation  
-- 🌱 Improving my skills in **JavaScript**, **Python**, and problem-solving  
-- ⚡ Fun fact: I get lost in **space exploration** and **sci-fi novels**  
+- 🌱 Improving my skills in **JavaScript**, **TypeScript**, and problem-solving  
 - 📫 Say hi: [Email](mailto:keimo.plaas22@gmail.com) | [LinkedIn](https://www.linkedin.com/in/keimo-plaas/)
 
 ---
