@@ -42,7 +42,7 @@ I build things **fast, clean, and smart**. I like to **think about what could go
 
 I may not have “world-changing” projects… yet. But here’s where I experiment, learn:  
 
-- **[Website Project]([https://3dpudiwebsitedesign.keimo-plaas22.workers.dev/])** – I made a website for a company
+- **[Website Project](https://3dpudiwebsitedesign.keimo-plaas22.workers.dev/)** – I made a website for a company
 
 > Every small project is a step toward bigger, smarter solutions 🌱
 
