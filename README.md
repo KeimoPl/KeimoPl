@@ -51,6 +51,6 @@ I may not have “world-changing” projects… yet. But here’s where I experi
 ## 🌐 Connect With Me
 
 - LinkedIn: [Keimo Plaas](https://ee.linkedin.com/in/keimo-plaas)  
-- Website: [Keimohub](https://keimohub.live)  
+- Website (I had little fun with it): [My Web](https://myweb.keimo-plaas22.workers.dev)  
 
 Thanks for stopping by! 💪
