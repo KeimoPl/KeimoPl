@@ -49,15 +49,9 @@ I may not have “world-changing” projects… yet. But here’s where I experi
 
 ---
 
-## 📊 GitHub Stats
-
-![KeimoP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeimoP&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
-- LinkedIn: [Keimo Plaas](https://ee.linkedin.com/in/keimo-plaas-0a128b33b)  
+- LinkedIn: [Keimo Plaas](https://ee.linkedin.com/in/keimo-plaas)  
 - Website: [Keimohub](https://keimohub.live)  
 
-Thanks for stopping by! Let’s make smart, clean, and efficient things together. 💪
+Thanks for stopping by! 💪
