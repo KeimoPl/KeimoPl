@@ -1,20 +1,18 @@
-# 👋 Hey, I’m Keimo
+# Hey, I’m Keimo
 
-I build things **fast, clean, and smart**. I like to **think about what could go wrong**, analyze it, and then **turn it into something that just works**. Automation is my playground, and every project is a tiny experiment in making life easier.  
-
-> “If it can be automated, it will be automated.” – probably me 😎
+I build practical software with a focus on reliability, clarity, and speed. I like finding what can go wrong early and turning it into something that just works.
 
 ---
 
-## 🌌 About Me
+## About Me
 
-- 🔭 Currently exploring **web development** and practical automation  
-- 🌱 Improving my skills in **JavaScript**, **TypeScript**, and problem-solving  
-- 📫 Say hi: [Email](mailto:keimo.plaas22@gmail.com) | [LinkedIn](https://www.linkedin.com/in/keimo-plaas/)
+- Currently focused on web development and practical automation
+- Improving my skills in JavaScript, TypeScript, and problem-solving
+- Say hi: [Email](mailto:keimo.plaas22@gmail.com) | [LinkedIn](https://linkedin.com/in/keimo-plaas)
 
 ---
 
-## 💻 My Toolbox
+## My Toolbox
 
 **Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -30,27 +28,23 @@ I build things **fast, clean, and smart**. I like to **think about what could go
 
 ---
 
-## 🚀 My Style
+## My Style
 
-- I **analyze everything** before building  
-- I build **fast, reliable, and clean code**  
-- I learn by **creating small experiments** that grow over time  
-
----
-
-## 📂 Projects & Experiments
-
-I may not have “world-changing” projects… yet. But here’s where I experiment, learn:  
-
-- **[Website Project](https://3dpudiwebsitedesign.keimo-plaas22.workers.dev/)** – I made a website for a company
-
-> Every small project is a step toward bigger, smarter solutions 🌱
+- I analyze risks early and plan around them
+- I value clean, maintainable code
+- I learn by building small experiments that grow over time
 
 ---
 
-## 🌐 Connect With Me
+## Projects
 
-- LinkedIn: [Keimo Plaas](https://ee.linkedin.com/in/keimo-plaas)  
-- Website (I had little fun with it): [My Web](https://myweb.keimo-plaas22.workers.dev)  
+All projects and case studies live here:
 
-Thanks for stopping by! 💪
+- **Portfolio:** https://portfoilo.keimo-plaas22.workers.dev
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/keimo-plaas
+- Portfolio: https://portfoilo.keimo-plaas22.workers.dev
