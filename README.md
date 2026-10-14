@@ -38,7 +38,7 @@ I build practical software with a focus on reliability, clarity, and speed. I li
 
 ## Projects
 
-- **[CueMic](https://github.com/KeimoPl/SoundboardMic)** — A Windows soundboard for routing clips and microphone audio into calls, with clip editing, collections, and global shortcuts. [Download CueMic](https://github.com/KeimoPl/cuemic-downloads/releases/download/v0.1.0/CueMic.Setup.0.1.0.exe)
+- **[CueMic](https://github.com/KeimoPl/SoundboardMic)** — A Windows soundboard for routing clips and microphone audio into calls, with clip editing and collections. [Download CueMic](https://github.com/KeimoPl/cuemic-downloads/releases/download/v0.1.0/CueMic.Setup.0.1.0.exe)
 
 All projects and case studies live here:
 
